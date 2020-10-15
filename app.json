@@ -16,7 +16,12 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.rbioz.pomodora",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.rbioz.pomodora",
+      "versionCode": 1
     }
   }
 }
